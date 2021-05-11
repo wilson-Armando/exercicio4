@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exercício4</string>
+    <string name="insira_o_actual_ano">Insira o actual ano</string>
+    <string name="insira_o_ano_de_nacimento">insira o ano de nascimento</string>
+</resources>
